@@ -96,7 +96,7 @@ namespace RockPaperScissors
                     Console.WriteLine($"Computer score is: {computerScore}");
                     Console.WriteLine("-----------------------------------");
                     Console.ForegroundColor = ConsoleColor.Yellow;
-                    Console.WriteLine("GitHub: https://github.com/modanger1");
+                    Console.WriteLine("GitHub: https://github.com/toghr0l");
                     Console.ResetColor();
                     isRunning = false;
                 }
