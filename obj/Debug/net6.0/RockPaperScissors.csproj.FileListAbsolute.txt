@@ -1,0 +1,15 @@
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.deps.json
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.runtimeconfig.json
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.dll
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.pdb
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.csproj.AssemblyReference.cache
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.AssemblyInfoInputs.cache
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.AssemblyInfo.cs
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.dll
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/obj/Debug/net6.0/refint/RockPaperScissors.dll
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.pdb
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.genruntimeconfig.cache
+/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/obj/Debug/net6.0/ref/RockPaperScissors.dll
