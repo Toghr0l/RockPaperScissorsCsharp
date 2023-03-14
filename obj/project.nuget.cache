@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JU1MuYtCHZqMeyOPNbTqzXVEoihcqoC5syn/LUs5K+ZiOhhecly7zrWYzScjGh3a6ESAdfzPRcfrW6QmAYb9Vg==",
+  "dgSpecHash": "cFpzZdOtP5doOGda5QdlazKZ6vF4rDIrdQPtH397okzcsatnOk9Ng89fZb73CvG7RWB0cpyo3+KDjACN+g1e5w==",
   "success": true,
   "projectFilePath": "/home/modanger/OneDrive/Documents/Csharp-code/Test/RockPaperScissors/RockPaperScissors.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/modanger/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/modanger/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/modanger/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.14/microsoft.netcore.app.host.linux-x64.6.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
