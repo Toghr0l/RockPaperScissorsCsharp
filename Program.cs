@@ -13,7 +13,7 @@ namespace RockPaperScissors
             bool isRunning = true;
             while (isRunning)
             {
-                Console.Write("Enter your choice between (Rock, Paper, and Scissors): ");
+                Console.Write("Enter your choice among (Rock, Paper, and Scissors): ");
                 string playerChoice = Console.ReadLine().ToLower();
                 string computerChoice = options[new Random().Next(options.Count)];
 
